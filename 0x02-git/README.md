@@ -1,1 +1,1 @@
-**New Project updated from GITHUB**
+**Working with git and GITHUB**
